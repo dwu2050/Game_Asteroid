@@ -1,2 +1,2 @@
 # Game_Asteroid
-A game i wrote long time ago while i was learning Java from a book. 
+![alt text](src/asteroid/AsteroidGmae.jpg "Description goes here")
