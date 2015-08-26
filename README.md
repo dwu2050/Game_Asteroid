@@ -1,2 +1,2 @@
 # Game_Asteroid
-![alt text](src/asteroid/AsteroidGmae.jpg "Description goes here")
+![alt text](src/asteroids/AsteroidGmae.jpg "Screenshot of the game")
